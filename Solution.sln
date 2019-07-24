@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greeter", "Greeter\Greeter.csproj", "{9E983A3E-0F7E-4512-A0AE-7AA2732B8078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeter.Testing", "Greeter.Testing\Greeter.Testing.csproj", "{6720DFC2-ED4A-471A-8464-850DD3BB50E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E983A3E-0F7E-4512-A0AE-7AA2732B8078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E983A3E-0F7E-4512-A0AE-7AA2732B8078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E983A3E-0F7E-4512-A0AE-7AA2732B8078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E983A3E-0F7E-4512-A0AE-7AA2732B8078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6720DFC2-ED4A-471A-8464-850DD3BB50E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6720DFC2-ED4A-471A-8464-850DD3BB50E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6720DFC2-ED4A-471A-8464-850DD3BB50E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6720DFC2-ED4A-471A-8464-850DD3BB50E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80FAA150-39A5-4202-B283-1FB5C0506152}
+	EndGlobalSection
+EndGlobal
